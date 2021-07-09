@@ -1,0 +1,3 @@
+enum Test {
+    FOO, BAR
+}
